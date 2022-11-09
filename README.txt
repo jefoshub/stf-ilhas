@@ -1,8 +1,6 @@
 # stf-ilhas
+Módulo 1 Raspagem de Dados
 
-##############################################
-##      MÓDULO 1 - RASPAGEM DE DADOS        ##
-##############################################
 
 ----------------------------------------------------------------
 UFRRJ - MESTRADO INTERDISCIPLINAR EM HUMANIDADES DIGITAIS
